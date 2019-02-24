@@ -1,0 +1,5 @@
+- added notification
+- added updates
+- added accounts
+- added login
+- added icon
